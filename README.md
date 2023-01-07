@@ -1,5 +1,3 @@
-[![MasterHead](https://preview.redd.it/nflafw75q6a91.jpg?auto=webp&s=50d0dbd9536fb20063ca0aed92ae52fd80c6c09d)](https://akhilkn27.io)
-
 <h1 align="center">Hi 👋, I'm Akhil K N</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
