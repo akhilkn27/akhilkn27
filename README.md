@@ -1,4 +1,4 @@
-[![MasterHead](https://s41256.pcdn.co/wp-content/uploads/2021/09/Data-Science-and-Machine-Learning-Automation-1024x538.png)]
+[![MasterHead](https://s41256.pcdn.co/wp-content/uploads/2021/09/Data-Science-and-Machine-Learning-Automation-1024x538.png)]]
 <h1 align="center">Hi 👋, I'm Akhil K N</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
