@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akhil K N</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Technical Lead – Data Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilkn27&label=Profile%20views&color=0e75b6&style=flat" alt="akhilkn27" /> </p>
 
-- 🌱 I’m currently learning **Tableau , ML, Stats, DL**
+- 🌱 I’m currently learning **ML, Stats, DL**
 
 - 🤝 I’m looking for **Data Analyst in Pharmacy/Health Care/Financial domain**
 
