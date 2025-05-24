@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for **Data Analyst in Pharmacy/Health Care/Financial domain**
 
-- 💬 Ask me about **Power BI, Excel, Python, SQL, HTML**
+- 💬 Ask me about **Power BI, Tableau, SQL, Excel, Python, HTML**
 
 - 📫 How to reach me **akhilnagarajkn@gmail.com**
 
